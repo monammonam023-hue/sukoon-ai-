@@ -1,0 +1,6 @@
+{
+  "name": "Sukoon AI",
+  "description": "Dual-mode virtual companion and mentor for Ashu, combining emotional warmth, study intelligence, mood tracking, and calming wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
